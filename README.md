@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I'm working on the geography of the ancient earth 🌎
+
 <!--
 **Osorio-AfanadorD/Osorio-AfanadorD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
