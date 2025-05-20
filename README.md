@@ -3,8 +3,8 @@
 ### I'm working on the geography of the ancient earth 🌎 using paleomagnetism, stratigraphy and regional mapping.
 ### 🌱 I’m currently learning python and R
 ### 👯 I’m looking to collaborate with paleogeographers across the globe
-### 💬 Ask me about geology of Mexico, Colombia and about the Jurassic in general
-### 📫 You can reach me in diego_osorio@berkeley.edu or dialoso@hotmail.com
+### 💬 Ask me about geology of Mexico, Colombia, and about the Mesozoic of North America
+### 📫 You can reach me in osori059@umn.edu or dialoso@hotmail.com
 ###  😄 Pronouns: he/him
 <!--
 **Osorio-AfanadorD/Osorio-AfanadorD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
